@@ -23,7 +23,7 @@
 
 - The follow maps show with and without the LOD include calculation, the one with LOD averages at the city level instead of item:
 
-![]()
+![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/lod_include.png)
 
 **Analysis & Insights**
 
