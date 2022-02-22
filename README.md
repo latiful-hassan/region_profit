@@ -12,6 +12,9 @@
 
 - Combined *ListOfOrders* and *OrderBreakdown* with an **Inner Join**
 - Created a **Hierarchy** named *Geography*
+- Baseline viz:
+
+![]()
 
 **Analysis & Insights**
 
