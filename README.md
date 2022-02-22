@@ -14,7 +14,7 @@
 - Created a **Hierarchy** named *Geography*
 - Baseline viz:
 
-![]()
+![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/baseline_viz.png)
 
 **Analysis & Insights**
 
