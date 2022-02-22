@@ -29,4 +29,4 @@
 
 - Finally, here is both maps combined:
 
-![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/combined_map.png)
+![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/region_profit_map.png)
