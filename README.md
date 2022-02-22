@@ -16,8 +16,12 @@
 
 ![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/baseline_viz.png)
 
-- To increase granularity of this viz without losing the level of aggregation I will use a **Level of Detail (LOD) Calculation**
-- **LOD Include**:
+- To increase granularity of this viz without losing the level of aggregation I will craete a **Level of Detail (LOD) Calculation**
+**LOD Include** calculated field with formula: 
+<br/>
+{INCLUDE [City] : SUM([Profit])}
+
+- The follow maps show with and without the LOD include calculation, the one with LOD averages at the city level instead of item:
 
 ![]()
 
