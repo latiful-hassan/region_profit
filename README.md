@@ -16,6 +16,11 @@
 
 ![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/baseline_viz.png)
 
+- To increase granularity of this viz without losing the level of aggregation I will use a **Level of Detail (LOD) Calculation**
+- **LOD Include**:
+
+![]()
+
 **Analysis & Insights**
 
 -
