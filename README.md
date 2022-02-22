@@ -10,7 +10,8 @@
 
 **Techniques & Process**
 
--
+- Combined *ListOfOrders* and *OrderBReakdown* with an **Inner Join**
+- Created a **Hierarchy** named *Geography*
 
 **Analysis & Insights**
 
