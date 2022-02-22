@@ -25,6 +25,10 @@
 
 ![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/lod_include.png)
 
+- The map below is using **LOD Exclude** to show the proportion that each city contrubuted to profit of that state:
+
+![]()
+
 **Analysis & Insights**
 
 -
