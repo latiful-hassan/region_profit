@@ -19,8 +19,7 @@
 - To increase granularity of this viz without losing the level of aggregation I will create a **Level of Detail (LOD) Calculation**
 **LOD Include** calculated field with formula: 
 <br/>
-{INCLUDE [City] : SUM([Profit])}
-<br/>
+{INCLUDE [City] : SUM([Profit])} <br/>
 
 - The follow maps show with and without the LOD Include calculation, the one with LOD averages at the city level instead of item:
 
@@ -28,8 +27,7 @@
 
 - Now to find the proportion that each city ocntributed to the profit for its respective state we can use **LOD Exclude**:
 <br/>
-{EXCLUDE [City]: SUM([Profit])}
-<br/>
+{EXCLUDE [City]: SUM([Profit])} <br/>
 
 ![](https://github.com/latiful-hassan/region_profit/blob/main/region_profit_screenshots/lod_exclude.png)
 
